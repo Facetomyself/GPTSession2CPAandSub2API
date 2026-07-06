@@ -4,7 +4,7 @@
 
 ## 在线使用
 
-### [**》》 点我直接使用 《《**](https://gtxx3600.github.io/GPTSession2CPAandSub2API/)
+### [**》》 点我直接使用 《《**](https://gpt-session.zhangxuemin.work/)
 
 ## 使用提示
 
@@ -16,13 +16,9 @@ OpenAI 已限制直接使用 ChatGPT Web 登录 session 转换后导入来跳过
 
 ChatGPT Web session 通常不包含 OAuth 文件里常见的 `refresh_token`，因此 access token 过期后不能自动刷新。Free 账号即使转换了，也可能没有权限调用需要付费账号权限的模型或功能。
 
-## GOAPY 拉闸了， Party is OVER ～ 
-## **加入 Discord 频道免费获取 GPT 撸羊毛信息：**
+## 代码仓库
 
-### [**》》 加入 Discord 频道 《《**](https://discord.gg/GFmHY2TZNy)
-
-邀请链接：`https://discord.gg/GFmHY2TZNy`
-
+- Fork: https://github.com/Facetomyself/GPTSession2CPAandSub2API
 
 ## 支持输入
 
